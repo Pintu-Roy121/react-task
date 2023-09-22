@@ -1,0 +1,10 @@
+.btn-custom {
+    background-color: #46139f;
+    color: #fff;
+}
+
+.modal-w {
+    width: 450px;
+    max-height: 400px;
+    overflow-y: scroll;
+}
